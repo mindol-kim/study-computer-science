@@ -4,6 +4,7 @@
   - sorting
   - dynamic programming
   - graph
+  - brute-force
 - Problem Solving
   - https://algospot.com/
   - https://www.acmicpc.net
